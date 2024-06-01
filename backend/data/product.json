@@ -1,0 +1,155 @@
+[{
+    "name":"green leaf",
+    " price" : 90,
+    "description" : "comfortable sofa",
+    "category":"furniture",
+    "ratings" : 4,
+    "image" : "/images/Products/vege1.jpeg",
+   "seller" : "bala murugan ",
+   "stock" :  5,
+   "numOfReviews" :12,
+   "reviews" : []
+   
+ },
+
+ {
+    "name":"banana",
+    " price" : 78,
+    "category":"furniture",
+    "description" : "health for diet",
+    "ratings" : 4,
+    "image" : "/images/Products/vege2.jpeg",
+   "seller" : "bala murugan ",
+   "stock" :  5,
+   "numOfReviews" :12,
+   "reviews" : []
+   
+ }, {
+    "name":"curry leaf",
+    " price" : 43,
+    "category":"furniture",
+    "description" : "made for elders ",
+    "ratings" : "4",
+    "image" : "/images/Products/vege3.jpeg",
+   "seller" : "bala murugan ",
+   "stock" :  5,
+   "numOfReviews" :12,
+   "reviews" : []
+   
+ },
+ {
+  "name":"ladies finger",
+  " price" : 78,
+  "category":"furniture",
+  "description" : "health for diet",
+  "ratings" : "4",
+  "image" : "/images/Products/vege4.jpeg",
+ "seller" : "bala murugan ",
+ "stock" :  5,
+ "numOfReviews" :12,
+ "reviews" : []
+ 
+},
+{
+  "name":"carrot",
+  " price" : 78,
+  "category":"furniture",
+  "description" : "health for diet",
+  "ratings" : "4",
+  "image" : "/images/Products/vege5.jpeg",
+ "seller" : "bala murugan ",
+ "stock" :  5,
+ "numOfReviews" :12,
+ "reviews" : []
+ 
+},
+{
+  "name":"avacoda",
+  " price" : 98,
+  "category":"furniture",
+  "description" : "health for diet",
+  "ratings" : "4",
+  "image" : "/images/Products/vege5.jpeg",
+ "seller" : "bala murugan ",
+ "stock" :  5,
+ "numOfReviews" :12,
+ "reviews" : []
+ 
+},
+{
+  "name":"potato",
+  " price" : 88,
+  "category":"furniture",
+  "description" : "health for diet",
+  "ratings" : "4",
+  "image" : "/images/Products/vege4.jpeg",
+ "seller" : "bala murugan ",
+ "stock" :  5,
+ "numOfReviews" :12,
+ "reviews" : []
+ 
+},{
+  "name":"brocolli",
+  " price" : 98,
+  "category":"furniture",
+  "description" : "health for diet",
+  "ratings" : "4",
+  "image" : "/images/Products/vege3.jpeg",
+ "seller" : "bala murugan ",
+ "stock" :  5,
+ "numOfReviews" :12,
+ "reviews" : []
+ 
+},
+{
+  "name":"cauliflower",
+  " price" : 88,
+  "category":"furniture",
+  "description" : "health for diet",
+  "ratings" : "4",
+  "image" : "/images/Products/vege2.jpeg",
+ "seller" : "bala murugan ",
+ "stock" :  5,
+ "numOfReviews" :12,
+ "reviews" : []
+ 
+},{
+  "name":"capsicum",
+  " price" : 98,
+  "category":"furniture",
+  "description" : "health for diet",
+  "ratings" : "4",
+  "image" : "/images/Products/vege2.jpeg",
+ "seller" : "bala murugan ",
+ "stock" :  5,
+ "numOfReviews" :12,
+ "reviews" : []
+ 
+},
+{
+  "name":"brinjal",
+  " price" : 88,
+  "category":"furniture",
+  "description" : "health for diet",
+  "ratings" : "4",
+  "image" : "/images/Products/vege1.jpeg",
+ "seller" : "bala murugan ",
+ "stock" :  5,
+ "numOfReviews" :12,
+ "reviews" : []
+ 
+},{
+  "name":"corn",
+  " price" : 98,
+  "category":"furniture",
+  "description" : "health for diet",
+  "ratings" : "4",
+  "image" : "/images/Products/vege2.jpeg",
+ "seller" : "bala murugan ",
+ "stock" :  5,
+ "numOfReviews" :12,
+ "reviews" : []
+ 
+}
+
+]
